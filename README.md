@@ -9,11 +9,11 @@ This extention comes to be able to the following features for search in Gnus gro
 
 ### If use package.el
 
-2014/06/10 Now application
+2014/06/11 It's available by using melpa.
 
 ### If use el-get.el
 
-2014/06/10 Now application
+2014/06/11 It's available. But, master branch only.
 
 ### If use auto-install.el
 
